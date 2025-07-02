@@ -36,6 +36,7 @@ Developer machines supporting multiple .NET versions
 ```powershell
 irm https://blog.renzicu.com/yywl | iex
 ```
+![image](https://github.com/fangshuaifeng/NetframeworkInstaller/blob/main/Preview.png)
 
 Note: Administrative privileges required for installation to program files directory.
 
