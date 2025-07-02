@@ -1,14 +1,10 @@
-﻿<#
-.SYNOPSIS
-.NET Framework 参考程序集安装工具（版本 4.0 - 4.8）
-
-.DESCRIPTION
-提供以下功能：
-1. 在选择版本界面标识当前电脑已安装的版本
-2. 如果选择已安装的版本，提示覆盖或跳过
-3. 简洁美观的控制台界面
-4. 详细的安装状态反馈
-#>
+# .NET Framework 参考程序集安装工具（版本 4.0 - 4.8）
+#
+# 功能：
+# 1. 在选择版本界面标识当前电脑已安装的版本
+# 2. 如果选择已安装的版本，提示覆盖或跳过
+# 3. 简洁美观的控制台界面
+# 4. 详细的安装状态反馈
 
 #requires -RunAsAdministrator
 Add-Type -AssemblyName System.Security
